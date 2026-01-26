@@ -1,2 +1,2 @@
 # which-ta
-Assess how (well) LLM disambiguate Chinese pronouns 
+How LLM disambiguates homophonic Chinese pronouns
